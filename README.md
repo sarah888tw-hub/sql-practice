@@ -1,1 +1,1 @@
-# sql-practice
+SQL Practice for Data Analysis Database used: NORTHWND
